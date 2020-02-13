@@ -9,5 +9,4 @@ GPIO.setup (PIN,GPIO.OUT)
 while True:
     GPIO.output(PIN,True)
     time.sleep(1)
-    GPIO.output(PIN,False)
-    time.sleep(1)
+    
