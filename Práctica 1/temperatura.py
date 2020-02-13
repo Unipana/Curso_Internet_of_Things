@@ -16,6 +16,6 @@ while True:
     else:
         print('Fallo la lectura del sensor.Intentar de nuevo')
 
-    f=requests.get(url+"&field1="+str(temperatura)+"&field2="+str(humedad))
+    f=requests.get(url+"&field1="+str(temperatura))
     
     time.sleep(5) 
