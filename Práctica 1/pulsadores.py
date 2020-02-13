@@ -10,6 +10,5 @@ while True:
 input_value = GPIO.input(PIN)
 if input_value == False:
   print("El boton ha sido presionado")
-  while input == False:
-    input_value = GPIO.input(PIN)
+  time.sleep(1)
 
