@@ -12,7 +12,7 @@ https://github.com/esp8266/Arduino (Configuracion de arduino para programar el N
 
 https://www.geekfactory.mx/download/driver-ch340-windows/ (Driver USB-Serial para NodeMCU)
 
-https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/(configuracion de ESP32)
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instruction  (configuracion de ESP32)      
 
 En este repositorio encontraran la
 
