@@ -1,7 +1,4 @@
-import RPi.GPIO as GPIO
-import time
-
-GPIO.setwarnings(False)
+import RPi.GPIO as GPIO                    
+import time                                
 GPIO.setmode(GPIO.BCM)
-GPIO.setup (PIN,GPIO.IN)
-GPIO.setup (PIN,GPIO.OUT)
+GPIO.setwarnings(False)  
